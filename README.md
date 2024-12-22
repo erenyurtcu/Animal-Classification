@@ -74,5 +74,3 @@ To run the project, the following components are required:
 ## ✍️ Notes
 - The dataset and additional implementation details are described in the linked repositories.
 - For any questions or issues, feel free to reach out via GitHub or Kaggle.
-
-Happy coding and best of luck with your model development!
